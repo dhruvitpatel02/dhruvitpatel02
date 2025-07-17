@@ -34,6 +34,22 @@ MySQL
 Tech Used: AWS Lambda, EC2, EventBridge, SNS, IAM, CloudWatch
 A tag-based, serverless automation system that intelligently starts and stops EC2 instances based on custom business hours. Helps reduce unnecessary costs while sending real-time email alerts using SNS. Fully managed via EventBridge triggers and CloudWatch logs for monitoring.
 
+🔹 Café Managing System
+Tech Used: PHP, HTML, CSS, Bootstrap, JavaScript, MySQL
+A web-based system to streamline café operations like order processing, billing, and menu management. Designed with a user-friendly interface to simplify tasks for both staff and customers.
+
+🔹 Donation Management System
+Tech Used: PHP, HTML, CSS, Bootstrap, JavaScript, Next.js, MySQL
+A platform built for efficient donation tracking and management. Combines PHP and MySQL for backend operations, with a modern, responsive frontend powered by Next.js and Bootstrap.
+
+🔹 Cloth Shopping System
+Tech Used: PHP, HTML, CSS, Bootstrap, JavaScript
+An e-commerce platform for browsing, selecting, and purchasing clothes online. Includes features for product cataloging, customer registration, and order management in a clean, responsive UI.
+
+🔹 Trek-The-North
+Tech Used: PHP, HTML, CSS, Bootstrap, JavaScript
+A travel booking application where users can search and reserve travel packages, flights, and hotels. Includes secure payment options and admin panel functionality for package and booking management.
+
 
 ### 🌐 Connect With Me
 
