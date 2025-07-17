@@ -35,16 +35,10 @@ Tech Used: AWS Lambda, EC2, EventBridge, SNS, IAM, CloudWatch
 A tag-based, serverless automation system that intelligently starts and stops EC2 instances based on custom business hours. Helps reduce unnecessary costs while sending real-time email alerts using SNS. Fully managed via EventBridge triggers and CloudWatch logs for monitoring.
 
 
-🌐 Connect With Me
-🔗 www.linkedin.com/in/dhruvitvegad
-🌐 https://dhruvitvegad.netlify.app/
-📧 dhruvit.vegad@gmail.com
-
-
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham2sharma)
-[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://prathamsharma.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratham.sharma@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/dhruvitvegad)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)]((https://dhruvitvegad.netlify.app/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](dhruvit.vegad@gmail.com)
 
 
