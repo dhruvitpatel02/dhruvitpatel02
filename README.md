@@ -1,4 +1,4 @@
-👋 Hi, I'm Dhruvit Vegad
+# 👋 Hi, I'm Dhruvit Vegad
 🚀 DevOps Enthusiast | Cloud Engineer | Full-Stack Developer
 
 I'm a passionate developer and cloud engineer with hands-on experience in automating infrastructure, optimizing cloud resources, and managing CI/CD pipelines. I specialize in AWS services, scripting, and containerization to build scalable and cost-effective solutions.
