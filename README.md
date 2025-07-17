@@ -39,3 +39,12 @@ A tag-based, serverless automation system that intelligently starts and stops EC
 🔗 www.linkedin.com/in/dhruvitvegad
 🌐 https://dhruvitvegad.netlify.app/
 📧 dhruvit.vegad@gmail.com
+
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham2sharma)
+[![Portfolio](https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=vercel&logoColor=white)](https://prathamsharma.dev)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratham.sharma@gmail.com)
+
+
