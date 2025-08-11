@@ -3,7 +3,6 @@
 
 I'm a passionate developer and cloud engineer with hands-on experience in automating infrastructure, optimizing cloud resources, and managing CI/CD pipelines. I specialize in AWS services, scripting, and containerization to build scalable and cost-effective solutions.
 
-🛠️ Tech Stack
 
 ### 🛠️ Tech Stack
 
