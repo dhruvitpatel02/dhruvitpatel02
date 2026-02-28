@@ -25,8 +25,6 @@ I'm a passionate developer and cloud engineer with hands-on experience in automa
 
 
 
-🛢️ Databases
-MySQL
 
 🚧 Project
 
